@@ -1,6 +1,5 @@
 - Olá, meu nome é Arthur! <br/>
 - Atualmente trabalho na área como Desenvolvedor <br/>
-- No ambiente de trabalho utilizo as tecnologias PowerBuilder e SQLServer<br/>
-- Fora do ambiente do trabalho, busco aprender e me aperfeiçoar na linguagem Java, tendo no momento meu principal foco no backend <br/>
-- Estou sempre procurando crescer o meu conhecimento, procurando sempre ferramentas para estar inserido no mercado atual <br/>
+- Fora do ambiente do trabalho, busco aprender e me aperfeiçoar na linguagem Python, tendo no momento meu principal foco no backend <br/>
+- Estou sempre na busca de crescer o meu conhecimento, procurando ferramentas para estar inserido no mercado atual <br/>
 - Se quiser entrar em contato, basta mandar uma mensagem!
