@@ -6,11 +6,9 @@
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Typescript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-  <img align="center" alt="ReactNative" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
   <img align="center" alt="Angular" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
-  <img align="center" alt="Java" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
   <img align="center" alt="Spring" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
+  <img align="center" alt="Java" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
 </div>
 
 <br>
