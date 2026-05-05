@@ -23,12 +23,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arthurcarrermedeiros&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Contact
 
 <p align="center">
